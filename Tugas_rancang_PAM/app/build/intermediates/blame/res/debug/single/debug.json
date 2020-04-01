@@ -616,6 +616,10 @@
         "source": "C:\\Users\\Resa\\.gradle\\caches\\transforms-2\\files-2.1\\5d52d9573d8a8f70a8462cc8f8a42ce9\\material-1.1.0\\res\\drawable\\ic_menu_arrow_up_black_24dp.xml"
     },
     {
+        "merged": "E:\\Data\\PAM\\TR\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_slide2.jpg.flat",
+        "source": "E:\\Data\\PAM\\TR\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\slide2.jpg"
+    },
+    {
         "merged": "E:\\Data\\PAM\\TR\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\Resa\\.gradle\\caches\\transforms-2\\files-2.1\\6119d746697059b7e1b74aab4d181f56\\appcompat-1.1.0\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
@@ -1780,6 +1784,10 @@
         "source": "C:\\Users\\Resa\\.gradle\\caches\\transforms-2\\files-2.1\\5d52d9573d8a8f70a8462cc8f8a42ce9\\material-1.1.0\\res\\layout\\design_bottom_navigation_item.xml"
     },
     {
+        "merged": "E:\\Data\\PAM\\TR\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "E:\\Data\\PAM\\TR\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
         "merged": "E:\\Data\\PAM\\TR\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mtrl_ic_cancel.xml.flat",
         "source": "C:\\Users\\Resa\\.gradle\\caches\\transforms-2\\files-2.1\\5d52d9573d8a8f70a8462cc8f8a42ce9\\material-1.1.0\\res\\drawable\\mtrl_ic_cancel.xml"
     },
@@ -1890,6 +1898,10 @@
     {
         "merged": "E:\\Data\\PAM\\TR\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\anim_design_snackbar_in.xml.flat",
         "source": "C:\\Users\\Resa\\.gradle\\caches\\transforms-2\\files-2.1\\5d52d9573d8a8f70a8462cc8f8a42ce9\\material-1.1.0\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\Data\\PAM\\TR\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_slide3.jpg.flat",
+        "source": "E:\\Data\\PAM\\TR\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\slide3.jpg"
     },
     {
         "merged": "E:\\Data\\PAM\\TR\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
@@ -2256,6 +2268,10 @@
         "source": "C:\\Users\\Resa\\.gradle\\caches\\transforms-2\\files-2.1\\6119d746697059b7e1b74aab4d181f56\\appcompat-1.1.0\\res\\drawable\\abc_list_divider_material.xml"
     },
     {
+        "merged": "E:\\Data\\PAM\\TR\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_slide1.jpg.flat",
+        "source": "E:\\Data\\PAM\\TR\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\slide1.jpg"
+    },
+    {
         "merged": "E:\\Data\\PAM\\TR\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\Resa\\.gradle\\caches\\transforms-2\\files-2.1\\6119d746697059b7e1b74aab4d181f56\\appcompat-1.1.0\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
@@ -2446,10 +2462,6 @@
     {
         "merged": "E:\\Data\\PAM\\TR\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\color_material_on_primary_disabled.xml.flat",
         "source": "C:\\Users\\Resa\\.gradle\\caches\\transforms-2\\files-2.1\\5d52d9573d8a8f70a8462cc8f8a42ce9\\material-1.1.0\\res\\color\\material_on_primary_disabled.xml"
-    },
-    {
-        "merged": "E:\\Data\\PAM\\TR\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\layout_navbar_menu.xml.flat",
-        "source": "E:\\Data\\PAM\\TR\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\layout\\navbar_menu.xml"
     },
     {
         "merged": "E:\\Data\\PAM\\TR\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",

@@ -1386,6 +1386,7 @@ drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_notifications_black_24dp
 drawable information
+drawable logo
 drawable mtrl_dialog_background
 drawable mtrl_dropdown_arrow
 drawable mtrl_ic_arrow_drop_down
@@ -1408,6 +1409,9 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable slide1
+drawable slide2
+drawable slide3
 drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -1528,7 +1532,6 @@ id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
 id fade
-id favorite_menu
 id fill
 id fill_horizontal
 id fill_vertical
@@ -1545,11 +1548,11 @@ id groups
 id hideable
 id home
 id homeAsUp
-id home_menu
 id icon
 id icon_group
 id ifRoom
 id image
+id imageView
 id info
 id invisible
 id italic
@@ -1642,7 +1645,6 @@ id search_close_btn
 id search_edit_frame
 id search_go_btn
 id search_mag_icon
-id search_menu
 id search_plate
 id search_src_text
 id search_voice_btn
@@ -1688,8 +1690,9 @@ id textEnd
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
+id textView
+id textView2
 id text_dashboard
-id text_home
 id text_input_end_icon
 id text_input_start_icon
 id text_notifications
@@ -1713,6 +1716,7 @@ id uniform
 id unlabeled
 id up
 id useLogo
+id v_flipper
 id view_offset_helper
 id visible
 id withText
@@ -1827,7 +1831,6 @@ layout mtrl_picker_header_title_text
 layout mtrl_picker_header_toggle
 layout mtrl_picker_text_input_date
 layout mtrl_picker_text_input_date_range
-layout navbar_menu
 layout notification_action
 layout notification_action_tombstone
 layout notification_template_custom_big

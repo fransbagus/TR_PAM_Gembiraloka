@@ -1396,9 +1396,19 @@ drawable aboutus
 drawable avd_hide_password
 drawable avd_show_password
 drawable bg1
+drawable bg11
 drawable bg2
+drawable bgabout
 drawable bgd1
 drawable bgd2
+drawable bghom2
+drawable bghome
+drawable bghome1
+drawable bginfo
+drawable bginfo2
+drawable bginfo3
+drawable bgmaps
+drawable bgmaps1
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -1432,6 +1442,7 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable gallery
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable home
@@ -1453,6 +1464,7 @@ drawable ic_mtrl_chip_close_circle
 drawable ic_notifications_black_24dp
 drawable information
 drawable logo
+drawable maps
 drawable mtrl_dialog_background
 drawable mtrl_dropdown_arrow
 drawable mtrl_ic_arrow_drop_down
@@ -1475,6 +1487,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable rounded_btn
 drawable slide1
 drawable slide2
 drawable slide3
@@ -1626,7 +1639,6 @@ id icon_group
 id icon_only
 id ifRoom
 id image
-id imageView
 id info
 id invisible
 id italic
@@ -1772,7 +1784,6 @@ id textView
 id textView2
 id text_input_end_icon
 id text_input_start_icon
-id text_notifications
 id textinput_counter
 id textinput_error
 id textinput_helper_text
@@ -2047,6 +2058,10 @@ string title_activity_home
 string title_activity_maps
 string title_home
 string title_information
+string txt_gallery
+string txt_home1
+string txt_home_title
+string txt_maps
 string welcome
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light

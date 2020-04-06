@@ -2,10 +2,16 @@
     <string name="app_name">Tugas_rancang_PAM</string>
     <string name="Start">Masuk</string>
     <string name="welcome">Selamat datang di layanan Kebun Binatang Gembira Loka</string>
+    <string name="txt_maps"><b>MAPS</b></string>
+    <string name="txt_gallery"><b>GALLERY</b></string>
+    <string name="txt_home1">Find our various fauna collecttion such as mammals, reptilia, aves, amphibi, pisces.</string>
+    <string name="txt_home_title">INFOGRAPHICS APPLICATION</string>
+
 
     // string bottom navbar
     <string name="title_activity_home">Home</string>
     <string name="title_home">Home</string>
     <string name="title_information">Information</string>
     <string name="title_about">About Us</string>
+    <string name="title_activity_maps">Map</string>
 </resources>

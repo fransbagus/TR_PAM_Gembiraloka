@@ -13,9 +13,9 @@
 
     <fragment
         android:id="@+id/navigation_dashboard"
-        android:name="com.example.tugas_rancang_pam.ui.dashboard.DashboardFragment"
+        android:name="com.example.tugas_rancang_pam.ui.information.InfomationFragment"
         android:label="@string/title_information"
-        tools:layout="@layout/fragment_dashboard" />
+        tools:layout="@layout/fragment_information" />
 
     <fragment
         android:id="@+id/navigation_notifications"

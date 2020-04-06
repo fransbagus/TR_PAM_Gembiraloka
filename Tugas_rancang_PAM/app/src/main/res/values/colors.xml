@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#318134</color>
-    <color name="colorPrimaryDark">#1A5950</color>
+    <color name="colorPrimary">#FEB72B</color>
+    <color name="colorPrimaryDark">#C08C24</color>
     <color name="colorAccent">#D81B60</color>
 
     // button bar

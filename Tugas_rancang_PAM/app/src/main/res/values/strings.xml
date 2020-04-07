@@ -6,6 +6,37 @@
     <string name="txt_gallery"><b>GALLERY</b></string>
     <string name="txt_home1">Find our various fauna collecttion such as mammals, reptilia, aves, amphibi, pisces.</string>
     <string name="txt_home_title">INFOGRAPHICS APPLICATION</string>
+    <string name="txt_recreation"><b>RECREATION</b></string>
+    <string name="title_OT">Onta Tunggang</string>
+    <string name="desc_OT">Pengunjung dapat merasakan sensasi naik wahana unta tunggang yang melintas di padang pasir khas Timur Tengah sambil berfoto di depan piramid.</string>
+    <string name="title_PZ">Petting Zoo</string>
+    <string name="desc_PZ">Pengunjung bisa bebas berinteraksi serta menjadi ajang pengenalan satwa ke anak-anak pada khususnya dan masyarakat pada umumnya.</string>
+    <string name="title_ZE">Zoo Express</string>
+    <string name="desc_ZE">Kereta mini yang terdiri dari 2 (dua) gerbong penumpang dimana masing-masing gerbong bisa mengangkut 12 orang anak-anak atau 8-10 orang dewasa.</string>
+    <string name="title_NB">Ninebot</string>
+    <string name="desc_NB">Ninebot atau Smart Wheels adalah semacam Self Balancing Electric Scooter bisa dikendalikan baik oleh orang dewasa maupun anak-anak. </string>
+    <string name="title_KS">Kolam Sentuh</string>
+    <string name="desc_KS">Menyentuh beragam jenis ikan dan aneka satwa aquatik lainnya yang menjadi koleksi Gembira Loka Zoo.</string>
+    <string name="title_GT">Gajah Tunggang</string>
+    <string name="desc_GT">Ayo rasakan bagaimana menaiki mamalia terbesar di daratan, berjalan pelan mengelilingi arena.</string>
+    <string name="title_KT">Kolam Tangkap</string>
+    <string name="desc_KT"> Wahana ini ada kolam yang kedalamannya cuma 30cm  yang berisi ikan-ikan kecil untuk ditangkap anak-anak.</string>
+    <string name="title_TI">Terapi Ikan</string>
+    <string name="desc_TI">Terapi yang tengah menjadi tren di sejumlah negara termasuk Indonesia ,kini ada di Gembira Loka Zoo.</string>
+    <string name="title_PK">Perahu Kayuh</string>
+    <string name="desc_PK">Mengelilingi sekitar kolam dengan menggunakan Perahu kayuh yang berbentuk angsa ini.</string>
+    <string name="title_SA">Skuter Air</string>
+    <string name="desc_SA">Wahana Air yang satu ini memang mirip seperti Jet Sky, Bedanya Skuter Air ini di operasikan di kolam buatan yang ada di Gembira Loka Zoo.</string>
+    <string name="title_TK">Taring</string>
+    <string name="desc_TK">Gembira Loka Zoo tellah hadir TARING (Transportasi Keliling) yang akan membantu pengunjung menuju ke tempat-tempat menarik yang ingin dikunjungi.</string>
+    <string name="title_ATV">ATV</string>
+    <string name="desc_ATV">Wahana ATV ada juga di Gembira Loka Zoo, rasakan serunya mengendarai Motor beroda empat ini.</string>
+    <string name="title_BB">Bumper Boat</string>
+    <string name="desc_BB">Menikmati sensasi berputar-putar mengelilingi kolam dan bertabrakan satu dan lainnya dengan Bumper boat.</string>
+    <string name="title_SB">Speed Boat</string>
+    <string name="desc_SB">Satu-satunya Speedboat yang melaju di tengah kota Yogyakarta.</string>
+    <string name="title_PKA">Perahu Katamaran</string>
+    <string name="desc_PKA">Menaiki Perahu Katamaran ini anda dapat mengelilingi Danau buatan dengan pemandangan yang indah.</string>
 
 
     // string bottom navbar

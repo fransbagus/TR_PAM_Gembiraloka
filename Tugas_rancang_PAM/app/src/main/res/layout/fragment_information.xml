@@ -13,12 +13,17 @@
         android:layout_width="272dp"
         android:layout_height="110dp"
         android:layout_marginTop="56dp"
-        android:alpha="0.9"
-        android:text="Animal"
+        android:elevation="100dp"
+        android:text="@string/txt_recreation"
+        android:background="@drawable/gallery"
+        android:textSize="24dp"
+        android:textColor="@color/cardview_light_background"
+        android:onClick="btnRecreationClick"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="OnClick" />
 
     <Button
         android:id="@+id/button2"
@@ -29,10 +34,12 @@
         android:textColor="@color/cardview_light_background"
         android:text="@string/txt_gallery"
         android:textSize="24dp"
+        android:onClick="btnGalleryClick"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/button3" />
+        app:layout_constraintTop_toBottomOf="@+id/button3"
+        tools:ignore="OnClick" />
 
     <Button
         android:id="@+id/btn_maps"

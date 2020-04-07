@@ -8,7 +8,6 @@
     <uses-sdk
         android:minSdkVersion="16"
         android:targetSdkVersion="29" />
-
     <!--
          The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
          Google Maps Android API v2, but you must specify either coarse or fine
@@ -34,7 +33,12 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-
+        <activity
+            android:name="com.example.tugas_rancang_pam.RecreationActivity"
+            android:label="@string/txt_recreation" />
+        <activity
+            android:name="com.example.tugas_rancang_pam.GalleryActivity"
+            android:label="Gallery" />
         <!--
              The API key for Google Maps-based APIs is defined as a string resource.
              (See the file "res/values/google_maps_api.xml").
@@ -50,7 +54,8 @@
         <activity
             android:name="com.example.tugas_rancang_pam.MapsActivity"
             android:label="@string/title_activity_maps"
-            android:parentActivityName="com.example.tugas_rancang_pam.Home" />
+            android:parentActivityName="com.example.tugas_rancang_pam.Home"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name="com.example.tugas_rancang_pam.Home"
             android:label="@string/title_activity_home" />

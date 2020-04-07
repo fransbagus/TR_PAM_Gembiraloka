@@ -3,16 +3,14 @@ package com.example.tugas_rancang_pam;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.Button;
-import android.widget.Toast;
-
-import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.navigation.NavController;
 import androidx.navigation.Navigation;
 import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
+
+import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 public class Home extends AppCompatActivity {
 
@@ -35,6 +33,16 @@ public class Home extends AppCompatActivity {
 
     public void btnMapsClick(View view) {
         Intent mapsIntent = new Intent(Home.this, MapsActivity.class) ;
+        startActivity(mapsIntent);
+    }
+
+    public void btnGalleryClick(View view) {
+        Intent mapsIntent = new Intent(Home.this, GalleryActivity.class) ;
+        startActivity(mapsIntent);
+    }
+
+    public void btnRecreationClick(View view) {
+        Intent mapsIntent = new Intent(Home.this, RecreationActivity.class) ;
         startActivity(mapsIntent);
     }
 }

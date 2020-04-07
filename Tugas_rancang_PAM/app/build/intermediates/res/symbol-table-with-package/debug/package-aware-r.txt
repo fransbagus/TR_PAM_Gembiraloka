@@ -570,6 +570,22 @@ attr passwordToggleDrawable
 attr passwordToggleEnabled
 attr passwordToggleTint
 attr passwordToggleTintMode
+attr piv_animationDuration
+attr piv_animationType
+attr piv_autoVisibility
+attr piv_count
+attr piv_dynamicCount
+attr piv_interactiveAnimation
+attr piv_orientation
+attr piv_padding
+attr piv_radius
+attr piv_rtl_mode
+attr piv_scaleFactor
+attr piv_select
+attr piv_selectedColor
+attr piv_strokeWidth
+attr piv_unselectedColor
+attr piv_viewPager
 attr popEnterAnim
 attr popExitAnim
 attr popUpTo
@@ -815,6 +831,10 @@ color cardview_light_background
 color cardview_shadow_end_color
 color cardview_shadow_start_color
 color checkbox_themeable_attribute_color
+color color1
+color color2
+color color3
+color color4
 color colorAccent
 color colorNavigationIcon
 color colorNavigationText
@@ -1393,11 +1413,13 @@ drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable aboutus
+drawable atv
 drawable avd_hide_password
 drawable avd_show_password
 drawable bg1
 drawable bg11
 drawable bg2
+drawable bg_overlay
 drawable bgabout
 drawable bgd1
 drawable bgd2
@@ -1409,6 +1431,7 @@ drawable bginfo2
 drawable bginfo3
 drawable bgmaps
 drawable bgmaps1
+drawable brochure
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -1417,6 +1440,7 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable bumper_boat
 drawable common_full_open_on_phone
 drawable common_google_signin_btn_icon_dark
 drawable common_google_signin_btn_icon_dark_focused
@@ -1442,6 +1466,7 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable gajah_tunggang
 drawable gallery
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
@@ -1463,6 +1488,8 @@ drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_notifications_black_24dp
 drawable information
+drawable kolam_sentuh
+drawable kolam_tangkap
 drawable logo
 drawable maps
 drawable mtrl_dialog_background
@@ -1474,7 +1501,9 @@ drawable mtrl_ic_error
 drawable mtrl_popupmenu_background
 drawable mtrl_popupmenu_background_dark
 drawable mtrl_tabs_default_indicator
+drawable namecard
 drawable navigation_empty_icon
+drawable ninebot
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -1487,14 +1516,25 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable onta_tunggang
+drawable perahu_katamaran
+drawable perahu_kayuh
+drawable petting_zoo
+drawable poster
 drawable rounded_btn
+drawable skuter_air
 drawable slide1
 drawable slide2
 drawable slide3
+drawable speed_boat
+drawable sticker
+drawable taring_transportasi_keliling
+drawable terapi_ikan
 drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 drawable welcome
+drawable zoo_express
 id ALT
 id BOTTOM_END
 id BOTTOM_START
@@ -1587,6 +1627,7 @@ id clear_text
 id clip_horizontal
 id clip_vertical
 id collapseActionView
+id color
 id confirm_button
 id container
 id content
@@ -1599,6 +1640,7 @@ id dark
 id date_picker_actions
 id decor_content_parent
 id default_activity_button
+id desc1
 id design_bottom_sheet
 id design_menu_item_action_area
 id design_menu_item_action_area_stub
@@ -1608,6 +1650,7 @@ id dialog_button
 id dimensions
 id direct
 id disableHome
+id drop
 id dropdown_menu
 id edit_query
 id end
@@ -1633,16 +1676,19 @@ id groups
 id hideable
 id home
 id homeAsUp
+id horizontal
 id hybrid
 id icon
 id icon_group
 id icon_only
 id ifRoom
 id image
+id image1
 id info
 id invisible
 id italic
 id item_touch_helper_previous_elevation
+id iv_auto_image_slider
 id labeled
 id largeLabel
 id left
@@ -1702,6 +1748,7 @@ id off
 id on
 id outline
 id packed
+id pager_indicator
 id parallax
 id parent
 id parentPanel
@@ -1721,6 +1768,7 @@ id satellite
 id save_non_transition_alpha
 id save_overlay_view
 id scale
+id scale_down
 id screen
 id scroll
 id scrollIndicatorDown
@@ -1762,6 +1810,7 @@ id start
 id stretch
 id submenuarrow
 id submit_area
+id swap
 id tabMode
 id tag_accessibility_actions
 id tag_accessibility_clickable_spans
@@ -1787,8 +1836,10 @@ id text_input_start_icon
 id textinput_counter
 id textinput_error
 id textinput_helper_text
+id thinWorm
 id time
 id title
+id title1
 id titleDividerNoCustom
 id title_template
 id top
@@ -1799,16 +1850,22 @@ id transition_layout_save
 id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
+id tv_auto_image_slider
 id unchecked
 id uniform
 id unlabeled
 id up
 id useLogo
 id v_flipper
+id vertical
+id viewPager
+id viewPager1
 id view_offset_helper
 id visible
+id vp_slider_layout
 id wide
 id withText
+id worm
 id wrap
 id wrap_content
 integer abc_config_activityDefaultDur
@@ -1872,9 +1929,12 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_detail
+layout activity_gallery
 layout activity_home
 layout activity_main
 layout activity_maps
+layout activity_recreation
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -1894,6 +1954,9 @@ layout design_text_input_start_icon
 layout fragment_home
 layout fragment_information
 layout fragment_notifications
+layout image_slider_layout_item
+layout item
+layout item_recreation
 layout mtrl_alert_dialog
 layout mtrl_alert_dialog_actions
 layout mtrl_alert_dialog_title
@@ -1931,6 +1994,7 @@ layout notification_template_part_time
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
+layout slider_layout
 layout support_simple_spinner_dropdown_item
 layout test_action_chip
 layout test_design_checkbox
@@ -2003,6 +2067,21 @@ string common_google_play_services_wear_update_text
 string common_open_on_phone
 string common_signin_button_text
 string common_signin_button_text_long
+string desc_ATV
+string desc_BB
+string desc_GT
+string desc_KS
+string desc_KT
+string desc_NB
+string desc_OT
+string desc_PK
+string desc_PKA
+string desc_PZ
+string desc_SA
+string desc_SB
+string desc_TI
+string desc_TK
+string desc_ZE
 string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
@@ -2053,6 +2132,21 @@ string path_password_eye_mask_visible
 string path_password_strike_through
 string search_menu_title
 string status_bar_notification_info_overflow
+string title_ATV
+string title_BB
+string title_GT
+string title_KS
+string title_KT
+string title_NB
+string title_OT
+string title_PK
+string title_PKA
+string title_PZ
+string title_SA
+string title_SB
+string title_TI
+string title_TK
+string title_ZE
 string title_about
 string title_activity_home
 string title_activity_maps
@@ -2062,6 +2156,7 @@ string txt_gallery
 string txt_home1
 string txt_home_title
 string txt_maps
+string txt_recreation
 string welcome
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
@@ -2811,6 +2906,7 @@ styleable NavHostFragment defaultNavHost navGraph
 styleable NavInclude graph
 styleable NavigationView android_background android_fitsSystemWindows android_maxWidth elevation headerLayout itemBackground itemHorizontalPadding itemIconPadding itemIconSize itemIconTint itemMaxLines itemShapeAppearance itemShapeAppearanceOverlay itemShapeFillColor itemShapeInsetBottom itemShapeInsetEnd itemShapeInsetStart itemShapeInsetTop itemTextAppearance itemTextColor menu
 styleable Navigator android_label android_id
+styleable PageIndicatorView piv_animationDuration piv_animationType piv_autoVisibility piv_count piv_dynamicCount piv_interactiveAnimation piv_orientation piv_padding piv_radius piv_rtl_mode piv_scaleFactor piv_select piv_selectedColor piv_strokeWidth piv_unselectedColor piv_viewPager
 styleable PopupWindow android_popupBackground android_popupAnimationStyle overlapAnchor
 styleable PopupWindowBackgroundState state_above_anchor
 styleable RecycleListView paddingBottomNoButtons paddingTopNoTitle

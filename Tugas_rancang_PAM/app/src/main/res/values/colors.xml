@@ -4,10 +4,12 @@
     <color name="colorPrimaryDark">#C08C24</color>
     <color name="colorAccent">#D81B60</color>
 
-    <color name="color1">#424549</color>
-    <color name="color2">#7e455e</color>
-    <color name="color3">#796e25</color>
-    <color name="color4">#59717c</color>
+    <color name="color1">#76BA1B</color>
+    <color name="color2">#A4DE02</color>
+    <color name="color3">#4C9A2A</color>
+    <color name="color4">#ACDF87</color>
+    <color name="color5">#feb72b</color>
+    <color name="color6">#ffdb0e</color>
     // button bar
     <color name="colorNavigationIcon">#dae9f6</color>
     <color name="colorNavigationText">#ffffff</color>

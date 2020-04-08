@@ -5,16 +5,26 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/color5"
     tools:context=".GalleryActivity">
 
+    <ImageView
+        android:id="@+id/viewImage"
+        android:layout_width="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/gallery1"
+        android:layout_margin="8dp"
+        android:layout_height="400dp">
+    </ImageView>
+
     <androidx.viewpager.widget.ViewPager
-        android:foregroundGravity="center"
         android:id="@+id/viewPager"
         android:layout_centerInParent="true"
+        android:layout_below="@+id/viewImage"
         android:overScrollMode="never"
         android:clipToPadding="false"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="wrap_content">
     </androidx.viewpager.widget.ViewPager>
 
 

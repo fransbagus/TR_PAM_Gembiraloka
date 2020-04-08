@@ -28,10 +28,17 @@ public class GalleryActivity extends AppCompatActivity {
 
 
         models = new ArrayList<>();
-        models.add(new GalleryModel(R.drawable.brochure));
-        models.add(new GalleryModel(R.drawable.sticker));
-        models.add(new GalleryModel(R.drawable.poster));
-        models.add(new GalleryModel(R.drawable.namecard));
+        models.add(new GalleryModel(R.drawable.gallery1));
+        models.add(new GalleryModel(R.drawable.gallery2));
+        models.add(new GalleryModel(R.drawable.gallery3));
+        models.add(new GalleryModel(R.drawable.gallery4));
+        models.add(new GalleryModel(R.drawable.gallery5));
+        models.add(new GalleryModel(R.drawable.gallery6));
+        models.add(new GalleryModel(R.drawable.gallery7));
+        models.add(new GalleryModel(R.drawable.slide1));
+        models.add(new GalleryModel(R.drawable.slide2));
+        models.add(new GalleryModel(R.drawable.slide3));
+
 
         adapter = new Adapter(models, GalleryActivity.this);
 
@@ -40,10 +47,7 @@ public class GalleryActivity extends AppCompatActivity {
         viewPager.setPadding(130, 0, 130, 0);
 
         Integer[] colors_temp = {
-                getResources().getColor(R.color.color1),
-                getResources().getColor(R.color.color2),
-                getResources().getColor(R.color.color3),
-                getResources().getColor(R.color.color4)
+                getResources().getColor(R.color.color5),
         };
 
         colors = colors_temp;

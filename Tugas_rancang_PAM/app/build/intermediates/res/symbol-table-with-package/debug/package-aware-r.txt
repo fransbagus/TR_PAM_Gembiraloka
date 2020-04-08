@@ -835,6 +835,8 @@ color color1
 color color2
 color color3
 color color4
+color color5
+color color6
 color colorAccent
 color colorNavigationIcon
 color colorNavigationText
@@ -1468,6 +1470,13 @@ drawable design_password_eye
 drawable design_snackbar_background
 drawable gajah_tunggang
 drawable gallery
+drawable gallery1
+drawable gallery2
+drawable gallery3
+drawable gallery4
+drawable gallery5
+drawable gallery6
+drawable gallery7
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable home
@@ -1858,6 +1867,7 @@ id up
 id useLogo
 id v_flipper
 id vertical
+id viewImage
 id viewPager
 id viewPager1
 id view_offset_helper

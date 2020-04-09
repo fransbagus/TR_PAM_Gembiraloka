@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:2:1-64:12
-INJECTED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:2:1-64:12
-INJECTED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:2:1-64:12
-INJECTED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:2:1-64:12
+ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:2:1-71:12
+INJECTED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:2:1-71:12
+INJECTED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:2:1-71:12
+INJECTED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:2:1-71:12
 MERGED from [androidx.navigation:navigation-ui:2.0.0] C:\Users\Resa\.gradle\caches\transforms-2\files-2.1\6c7bbd7dd17a488d8e801d4d1a3f4ecc\navigation-ui-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\Resa\.gradle\caches\transforms-2\files-2.1\eaf17b24d60dc773c7680b20ac141638\material-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Resa\.gradle\caches\transforms-2\files-2.1\ea88890b09526096266c9c16859169ae\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
@@ -49,20 +49,20 @@ MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Resa\.gradle\c
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Resa\.gradle\caches\transforms-2\files-2.1\209f2f473926ace7290783e8147519fd\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Resa\.gradle\caches\transforms-2\files-2.1\9f18933e18a2883724525a09a9c7e2bc\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Resa\.gradle\caches\transforms-2\files-2.1\2e208f9141563db79bd49ce93534ac4d\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:2:1-64:12
-INJECTED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:2:1-64:12
-INJECTED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:2:1-71:12
+INJECTED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:2:1-71:12
+INJECTED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:2:1-71:12
 	package
 		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:3:5-44
 		INJECTED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml
 		INJECTED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml
-		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:2:1-64:12
+		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:2:1-71:12
 		INJECTED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml
-		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:2:1-64:12
+		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:2:1-71:12
 		INJECTED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:2:11-69
@@ -79,7 +79,7 @@ ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\Andr
 	android:name
 		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:11:22-66
 application
-ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:13:5-62:19
+ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:13:5-69:19
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\Resa\.gradle\caches\transforms-2\files-2.1\eaf17b24d60dc773c7680b20ac141638\material-1.1.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\Resa\.gradle\caches\transforms-2\files-2.1\eaf17b24d60dc773c7680b20ac141638\material-1.1.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Resa\.gradle\caches\transforms-2\files-2.1\cb3ee0668a2ccffbec6ced598c9d8e79\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
@@ -123,67 +123,81 @@ MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Resa\.gradle\c
 	android:logo
 		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:15:9-43
 activity#com.example.tugas_rancang_pam.AttractionActivity
-ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:21:9-24:20
+ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:21:9-25:20
+	android:screenOrientation
+		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:24:13-47
 	android:label
 		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:23:13-51
 	android:name
 		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:22:13-47
 activity#com.example.tugas_rancang_pam.ContactusActivity
-ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:25:9-27:53
-	android:label
-		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:27:13-50
-	android:name
-		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:26:13-46
-activity#com.example.tugas_rancang_pam.RecreationActivity
-ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:28:9-30:54
-	android:label
-		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:30:13-51
-	android:name
+ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:26:9-29:49
+	android:screenOrientation
 		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:29:13-47
+	android:label
+		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:28:13-50
+	android:name
+		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:27:13-46
+activity#com.example.tugas_rancang_pam.RecreationActivity
+ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:30:9-33:49
+	android:screenOrientation
+		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:33:13-47
+	android:label
+		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:32:13-51
+	android:name
+		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:31:13-47
 activity#com.example.tugas_rancang_pam.GalleryActivity
-ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:31:9-33:51
+ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:34:9-37:49
+	android:screenOrientation
+		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:37:13-47
 	android:label
-		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:33:13-48
+		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:36:13-48
 	android:name
-		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:32:13-44
+		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:35:13-44
 meta-data#com.google.android.geo.API_KEY
-ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:42:9-44:55
+ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:46:9-48:55
 	android:value
-		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:44:13-52
+		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:48:13-52
 	android:name
-		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:43:13-58
+		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:47:13-58
 activity#com.example.tugas_rancang_pam.MapsActivity
-ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:46:9-50:72
+ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:50:9-55:49
+	android:screenOrientation
+		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:55:13-47
 	android:parentActivityName
-		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:49:13-47
+		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:53:13-47
 	android:label
-		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:48:13-56
+		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:52:13-56
 	android:theme
-		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:50:13-69
+		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:54:13-69
 	android:name
-		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:47:13-41
+		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:51:13-41
 activity#com.example.tugas_rancang_pam.Home
-ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:51:9-53:59
+ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:56:9-59:49
+	android:screenOrientation
+		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:59:13-47
 	android:label
-		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:53:13-56
+		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:58:13-56
 	android:name
-		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:52:13-33
+		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:57:13-33
 activity#com.example.tugas_rancang_pam.MainActivity
-ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:54:9-61:20
+ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:60:9-68:20
+	android:screenOrientation
+		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:63:13-47
 	android:theme
-		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:56:13-69
+		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:62:13-69
 	android:name
-		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:55:13-41
+		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:61:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:57:13-60:29
+ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:64:13-67:29
 action#android.intent.action.MAIN
-ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:58:17-69
+ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:65:17-69
 	android:name
-		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:58:25-66
+		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:65:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:59:17-77
+ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:66:17-77
 	android:name
-		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:59:27-74
+		ADDED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml:66:27-74
 uses-sdk
 INJECTED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\AndroidManifest.xml

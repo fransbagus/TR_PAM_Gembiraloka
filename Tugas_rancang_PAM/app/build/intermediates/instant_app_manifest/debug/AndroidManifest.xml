@@ -14,6 +14,7 @@
          location permissions for the 'MyLocation' functionality.
     -->
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
 
     <!-- Include required permissions for Google Maps API to run. -->
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -33,6 +34,9 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.tugas_rancang_pam.ContactusActivity"
+            android:label="Contact Us" />
         <activity
             android:name="com.example.tugas_rancang_pam.RecreationActivity"
             android:label="@string/txt_recreation" />

@@ -45,4 +45,8 @@ public class Home extends AppCompatActivity {
         Intent mapsIntent = new Intent(Home.this, RecreationActivity.class) ;
         startActivity(mapsIntent);
     }
+    public void btnContactusClick(View view) {
+        Intent mapsIntent = new Intent(Home.this, ContactusActivity.class) ;
+        startActivity(mapsIntent);
+    }
 }

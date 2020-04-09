@@ -1,12 +1,14 @@
 <resources>
     <string name="app_name">Tugas_rancang_PAM</string>
-    <string name="Start">Masuk</string>
-    <string name="welcome">Selamat datang di layanan Kebun Binatang Gembira Loka</string>
-    <string name="txt_maps"><b>MAPS</b></string>
-    <string name="txt_gallery"><b>GALLERY</b></string>
-    <string name="txt_home1">Find our various fauna collecttion such as mammals, reptilia, aves, amphibi, pisces.</string>
     <string name="txt_home_title">INFOGRAPHICS APPLICATION</string>
-    <string name="txt_recreation"><b>RECREATION</b></string>
+    //page home
+    <string name="welcome">Selamat datang di layanan Kebun Binatang Gembira Loka</string>
+    <string name="txt_home1">Temukan berbagai koleksi fauna kami seperti mamalia, reptilia, aves, amphibi, pisces.</string>
+    //page information
+    <string name="txt_maps"><b>PETA</b></string>
+    <string name="txt_gallery"><b>GALERI</b></string>
+    <string name="txt_recreation"><b>REKREASI</b></string>
+    //page recreation
     <string name="title_OT">Onta Tunggang</string>
     <string name="desc_OT">Pengunjung dapat merasakan sensasi naik wahana unta tunggang yang melintas di padang pasir khas Timur Tengah sambil berfoto di depan piramid.</string>
     <string name="title_PZ">Petting Zoo</string>
@@ -37,12 +39,24 @@
     <string name="desc_SB">Satu-satunya Speedboat yang melaju di tengah kota Yogyakarta.</string>
     <string name="title_PKA">Perahu Katamaran</string>
     <string name="desc_PKA">Menaiki Perahu Katamaran ini anda dapat mengelilingi Danau buatan dengan pemandangan yang indah.</string>
+    //page about us
+    <string name="txt_contactus">HUBUNGI KAMI</string>
 
+    //page contact us
+    <string name="txt_contactus_title">HUBUNGI KAMI</string>
+    <string name="txt_contactus_fill">
+    Gembira Loka Zoo\n
+    Jl. Kebun Raya no 2 Yogyakarta 55171 Indonesia\n
+ 	 Telp: +62-274-373861\n
+ 	 FAX: +62-274-384666\n
+ 	 WhatsApp: +62-812-2266-2290\n
+ 	 HandPhone: +62-812-3192-5666\n
+ 	 Email: info@gembiralokazoo.com</string>
 
     // string bottom navbar
-    <string name="title_activity_home">Home</string>
-    <string name="title_home">Home</string>
-    <string name="title_information">Information</string>
-    <string name="title_about">About Us</string>
-    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_home">Beranda</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_information">Informasi</string>
+    <string name="title_about">Tentang Kami</string>
+    <string name="title_activity_maps">Peta</string>
 </resources>

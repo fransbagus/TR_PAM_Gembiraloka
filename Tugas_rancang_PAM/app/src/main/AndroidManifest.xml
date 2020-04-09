@@ -8,6 +8,7 @@
     -->
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
 
     <application
         android:allowBackup="true"
@@ -18,17 +19,17 @@
         android:theme="@style/AppTheme">
         <activity
             android:name=".AttractionActivity"
-            android:label="Actraction">
+            android:label="@string/txt_attraction">
         </activity>
         <activity
             android:name=".ContactusActivity"
-            android:label="Contact Us" />
+            android:label="@string/txt_contactus" />
         <activity
             android:name=".RecreationActivity"
             android:label="@string/txt_recreation" />
         <activity
             android:name=".GalleryActivity"
-            android:label="Gallery" />
+            android:label="@string/txt_gallery" />
         <!--
              The API key for Google Maps-based APIs is defined as a string resource.
              (See the file "res/values/google_maps_api.xml").
@@ -54,7 +55,6 @@
             android:theme="@style/Theme.AppCompat.Light.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>

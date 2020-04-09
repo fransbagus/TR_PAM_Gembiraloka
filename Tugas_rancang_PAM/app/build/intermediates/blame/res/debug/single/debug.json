@@ -1,442 +1,498 @@
 [
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bgmaps.jpeg.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\bgmaps.jpeg"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_welcome.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable-v24\\welcome.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_txtfield2.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\txtfield2.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_notifications_black_24dp.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_notifications_black_24dp.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_notifications_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kolam_tangkap.jpg.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\kolam_tangkap.jpg"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_skuter_air.jpg.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\skuter_air.jpg"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bgabout.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\bgabout.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_notifications_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bgd1.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\bgd1.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_contactus.xml.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\layout\\activity_contactus.xml"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home_black_24dp.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home_black_24dp.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gallery1.jpg.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\gallery1.jpg"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_gallery.xml.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\layout\\activity_gallery.xml"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_welcome.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable-v24\\welcome.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gallery5.jpg.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\gallery5.jpg"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\layout\\fragment_home.xml"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btngallery.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\btngallery.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_btn.xml.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\rounded_btn.xml"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_btn.xml.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\rounded_btn.xml"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_dashboard_black_24dp.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_dashboard_black_24dp.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_contactus.xml.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\layout\\activity_contactus.xml"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_maps.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\maps.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bgmaps1.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\bgmaps1.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\layout_item.xml.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\layout\\item.xml"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_zoo_express.jpg.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\zoo_express.jpg"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_brochure.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\brochure.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_zoo_express.jpg.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\zoo_express.jpg"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bghom2.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\bghom2.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sticker.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\sticker.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sejarah.jpg.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\sejarah.jpg"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_notifications_black_24dp.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_notifications_black_24dp.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_recreation.xml.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\layout\\activity_recreation.xml"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gallery2.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\gallery2.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-id-rID-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-id-rID-ldpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_notifications_black_24dp.xml.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_notifications_black_24dp.xml"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gallery6.jpg.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\gallery6.jpg"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail.xml.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\layout\\activity_detail.xml"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg11.jpeg.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\bg11.jpeg"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gallery7.jpg.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\gallery7.jpg"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_perahu_kayuh.jpg.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\perahu_kayuh.jpg"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-id-rID-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-id-rID-xhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gajah_tunggang.jpg.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\gajah_tunggang.jpg"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_dashboard_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bginfo.jpeg.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\bginfo.jpeg"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg1.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\bg1.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bgd2.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\bgd2.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_aboutus.jpg.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\aboutus.jpg"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_information.xml.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\layout\\fragment_information.xml"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_slide3.jpg.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\slide3.jpg"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_taring_transportasi_keliling.JPG.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\taring_transportasi_keliling.JPG"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gajah_tunggang.jpg.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\gajah_tunggang.jpg"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_dashboard_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_txtfield2.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\txtfield2.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_notifications_black_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bghome1.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\bghome1.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_txtfield.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\txtfield.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_perahu_katamaran.JPG.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\perahu_katamaran.JPG"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_notifications.xml.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\layout\\fragment_notifications.xml"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btnmaps.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\btnmaps.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bginfo3.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\bginfo3.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bgd1.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\bgd1.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gallery7.jpg.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\gallery7.jpg"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gallery2.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\gallery2.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kolam_sentuh.jpg.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\kolam_sentuh.jpg"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-b+id+ID_home.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable-b+id+ID\\home.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg1.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\bg1.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_slide2.jpg.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\slide2.jpg"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_slide2.jpg.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\slide2.jpg"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_dashboard_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ninebot.jpg.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\ninebot.jpg"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_namecard.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\namecard.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-id-rID-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-id-rID-xxxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gallery4.jpg.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\gallery4.jpg"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kolam_tangkap.jpg.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\kolam_tangkap.jpg"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu.xml.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bghome.jpeg.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\bghome.jpeg"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_brochure.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\brochure.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bumper_boat.jpg.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\bumper_boat.jpg"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_dashboard_black_24dp.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_dashboard_black_24dp.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_notifications_black_24dp.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_notifications_black_24dp.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sejarah.jpg.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\sejarah.jpg"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_speed_boat.jpg.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\speed_boat.jpg"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_perahu_katamaran.JPG.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\perahu_katamaran.JPG"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_taring_transportasi_keliling.JPG.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\taring_transportasi_keliling.JPG"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_atv.JPG.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\atv.JPG"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_home_black_24dp.xml.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home_black_24dp.xml"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_dashboard_black_24dp.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_dashboard_black_24dp.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bginfo2.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\bginfo2.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-id-rID-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-id-rID-xxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bumper_boat.jpg.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\bumper_boat.jpg"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home_black_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gallery1.jpg.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\gallery1.jpg"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-id-rID-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-id-rID-hdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_poster.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\poster.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\layout\\activity_home.xml"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_maps.xml.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\layout\\activity_maps.xml"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail.xml.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\layout\\activity_detail.xml"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\layout_item.xml.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\layout\\item.xml"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_gallery.xml.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\layout\\activity_gallery.xml"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_dashboard.xml.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\layout\\fragment_dashboard.xml"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bgd2.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\bgd2.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_notifications.xml.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\layout\\fragment_notifications.xml"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gallery5.jpg.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\gallery5.jpg"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_dashboard_black_24dp.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_dashboard_black_24dp.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_maps.xml.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\layout\\activity_maps.xml"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_dashboard_black_24dp.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_dashboard_black_24dp.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_dashboard_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home_black_24dp.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home_black_24dp.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-id-rID-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-id-rID-anydpi-v21\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_speed_boat.jpg.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\speed_boat.jpg"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_information.xml.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\layout\\fragment_information.xml"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_aboutus.jpg.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\aboutus.jpg"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bgmaps1.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\bgmaps1.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_home_black_24dp.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home_black_24dp.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bginfo.jpeg.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\bginfo.jpeg"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_notifications_black_24dp.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_notifications_black_24dp.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gallery.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\gallery.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_dashboard_black_24dp.xml.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_dashboard_black_24dp.xml"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gallery4.jpg.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\gallery4.jpg"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_atv.JPG.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\atv.JPG"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_namecard.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\namecard.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_recreation.xml.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\layout\\item_recreation.xml"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_slide1.jpg.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\slide1.jpg"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-b+id+ID_aboutus.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable-b+id+ID\\aboutus.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\layout\\activity_home.xml"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_dashboard_black_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_recreation.xml.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\layout\\activity_recreation.xml"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_notifications_black_24dp.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_notifications_black_24dp.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bghome1.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\bghome1.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gallery3.jpg.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\gallery3.jpg"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kolam_sentuh.jpg.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\kolam_sentuh.jpg"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_notifications_black_24dp.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_notifications_black_24dp.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg2.jpg.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\bg2.jpg"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btnrecreation.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\btnrecreation.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_dashboard_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_perahu_kayuh.jpg.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\perahu_kayuh.jpg"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_dashboard_black_24dp.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_dashboard_black_24dp.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_dashboard.xml.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\layout\\fragment_dashboard.xml"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home_black_24dp.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home_black_24dp.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_terapi_ikan.jpg.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\terapi_ikan.jpg"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-id-rID-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-id-rID-mdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_terapi_ikan.jpg.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\terapi_ikan.jpg"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home_black_24dp.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home_black_24dp.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_notifications_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg2.jpg.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\bg2.jpg"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_recreation.xml.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\layout\\item_recreation.xml"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btnmaps.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\btnmaps.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_txtfield.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\txtfield.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_skuter_air.jpg.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\skuter_air.jpg"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bghom2.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\bghom2.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_txtfield3.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\txtfield3.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ninebot.jpg.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\ninebot.jpg"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\logo.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-b+id+ID_information.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable-b+id+ID\\information.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btncontactus.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\btncontactus.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_onta_tunggang.jpg.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\onta_tunggang.jpg"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home_black_24dp.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home_black_24dp.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_onta_tunggang.jpg.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\onta_tunggang.jpg"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btngallery.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\btngallery.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bghome.jpeg.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\bghome.jpeg"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bginfo3.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\bginfo3.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_petting_zoo.JPG.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\petting_zoo.JPG"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bginfo2.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\bginfo2.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gallery3.jpg.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\gallery3.jpg"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_txtfield3.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\txtfield3.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_dashboard_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_poster.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\poster.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btntelpon.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\btntelpon.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_slide3.jpg.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\slide3.jpg"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\src\\main\\res\\layout\\fragment_home.xml"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btnrecreation.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\btnrecreation.png"
+    },
+    {
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_slide1.jpg.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\slide1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sticker.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\sticker.png"
+    },
+    {
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_petting_zoo.JPG.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\petting_zoo.JPG"
+    },
+    {
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gallery6.jpg.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\gallery6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btncontactus.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\btncontactus.png"
+    },
+    {
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg11.jpeg.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\bg11.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bgabout.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\bgabout.png"
     }
 ]

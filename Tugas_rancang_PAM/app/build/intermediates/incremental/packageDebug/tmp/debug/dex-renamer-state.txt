@@ -1,4 +1,4 @@
-#Thu Apr 09 10:22:21 ICT 2020
-base.0=C\:\\Users\\vincg\\AndroidStudioProjects\\TR_PAM_Gembiraloka-master\\Tugas_rancang_PAM\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+#Thu Apr 09 12:28:45 ICT 2020
+base.0=C\:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

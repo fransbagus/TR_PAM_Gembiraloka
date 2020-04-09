@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Tugas_rancang_PAM</string>
+    <string name="txt_home_title">INFOGRAPHICS APPLICATION</string>
+    //page home
+    <string name="welcome">Welcome to Gembira Loka Zoo service</string>
+    <string name="txt_home1">Find our various fauna collection such as mammals, reptilia, aves, amphibi, pisces.</string>
+    //page information
+    <string name="txt_maps"><b>MAPS</b></string>
+    <string name="txt_gallery"><b>GALLERY</b></string>
+    <string name="txt_recreation"><b>RECREATION</b></string>
+    //page recreation
+    <string name="title_OT">Onta Tunggang</string>
+    <string name="desc_OT">Visitors can enjoy riding camel rides that cross in the desert typical of the Middle East while taking pictures in front of the pyramid.</string>
+    <string name="title_PZ">Petting Zoo</string>
+    <string name="desc_PZ">Visitors can freely interact and become a place to introduce animals to children in particular and society in general.</string>
+    <string name="title_ZE">Zoo Express</string>
+    <string name="desc_ZE">Mini trains consisting of 2 (two) passenger cars where each cart can carry 12 children or 8-10 adults.</string>
+    <string name="title_NB">Ninebot</string>
+    <string name="desc_NB">Ninebot or Smart Wheels is a kind of Self Balancing Electric Scooter that can be controlled by both adults and children.</string>
+    <string name="title_KS">Kolam Sentuh</string>
+    <string name="desc_KS">Touch various types of fish and various other aquatic animals that are a collection of Gembira Loka Zoo.</string>
+    <string name="title_GT">Gajah Tunggang</string>
+    <string name="desc_GT">Feel the ride of the largest mammal on ground, slowly walking on the arena.</string>
+    <string name="title_KT">Kolam Tangkap</string>
+    <string name="desc_KT"> This facility has a pool that is only 30cm deep which contains small fish for children to catch.</string>
+    <string name="title_TI">Terapi Ikan</string>
+    <string name="desc_TI">Therapy is becoming a trend in a number of countries including Indonesia, now in the Gembira Loka Zoo.</string>
+    <string name="title_PK">Perahu Kayuh</string>
+    <string name="desc_PK">Go around the pool using this goose-shaped paddle boat.</string>
+    <string name="title_SA">Skuter Air</string>
+    <string name="desc_SA">This water vehicle is indeed similar to Jet Sky, the difference is that this water scooter is operated in an artificial pond in the Gembira Loka Zoo.</string>
+    <string name="title_TK">Taring</string>
+    <string name="desc_TK">Gembira Loka Zoo has presented TARING (Mobile Transportation) which will help visitors to interesting places that they want to visit.</string>
+    <string name="title_ATV">ATV</string>
+    <string name="desc_ATV">ATV rides are also in Gembira Loka Zoo, feel the thrill of riding this four-wheeled motorcycle.</string>
+    <string name="title_BB">Bumper Boat</string>
+    <string name="desc_BB">Enjoy the sensation of circling around the pool and colliding with one another with a Bumper boat.</string>
+    <string name="title_SB">Speed Boat</string>
+    <string name="desc_SB">The only speedboat that runs in the middle of the city of Yogyakarta.</string>
+    <string name="title_PKA">Perahu Katamaran</string>
+    <string name="desc_PKA">Riding this Catamaran Boat you can surround an artificial lake with beautiful views.</string>
+    //page about us
+    <string name="txt_contactus">CONTACT US</string>
+
+    //page contact us
+    <string name="txt_contactus_title">Contact Us</string>
+    <string name="txt_contactus_fill">
+    Gembira Loka Zoo\n
+    Jl. Kebun Raya no 2 Yogyakarta 55171 Indonesia\n
+ 	 Telp: +62-274-373861\n
+ 	 FAX: +62-274-384666\n
+ 	 WhatsApp: +62-812-2266-2290\n
+ 	 HandPhone: +62-812-3192-5666\n
+ 	 Email: info@gembiralokazoo.com</string>
+
+    // string bottom navbar
+    <string name="title_activity_home">Home</string>
+    <string name="title_home">Home</string>
+    <string name="title_information">Information</string>
+    <string name="title_about">About Us</string>
+    <string name="title_activity_maps">Maps</string>
+</resources>

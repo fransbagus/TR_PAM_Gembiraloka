@@ -16,12 +16,12 @@
         "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_notifications_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_skuter_air.jpg.flat",
-        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\skuter_air.jpg"
-    },
-    {
         "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_notifications_black_24dp.png.flat",
         "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_skuter_air.jpg.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\skuter_air.jpg"
     },
     {
         "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_contactus.xml.flat",
@@ -56,6 +56,10 @@
         "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\maps.png"
     },
     {
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_atraksi4.jpg.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\atraksi4.jpg"
+    },
+    {
         "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\layout_item.xml.flat",
         "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\layout\\item.xml"
     },
@@ -80,10 +84,6 @@
         "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\layout\\activity_recreation.xml"
     },
     {
-        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-id-rID-ldpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-id-rID-ldpi\\ic_launcher_background.png"
-    },
-    {
         "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home_black_24dp.png.flat",
         "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home_black_24dp.png"
     },
@@ -94,10 +94,6 @@
     {
         "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gallery7.jpg.flat",
         "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\gallery7.jpg"
-    },
-    {
-        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-id-rID-xhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-id-rID-xhdpi\\ic_launcher_background.png"
     },
     {
         "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_dashboard_black_24dp.png.flat",
@@ -160,12 +156,12 @@
         "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\gallery2.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-b+id+ID_home.png.flat",
-        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable-b+id+ID\\home.png"
-    },
-    {
         "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_slide2.jpg.flat",
         "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\slide2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btnatraksi.png.flat",
+        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\btnatraksi.png"
     },
     {
         "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_dashboard_black_24dp.png.flat",
@@ -174,10 +170,6 @@
     {
         "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-id-rID-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-id-rID-xxxhdpi\\ic_launcher_background.png"
     },
     {
         "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kolam_tangkap.jpg.flat",
@@ -224,16 +216,8 @@
         "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\bginfo2.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-id-rID-xxhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-id-rID-xxhdpi\\ic_launcher_background.png"
-    },
-    {
         "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_home_black_24dp.xml.flat",
         "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home_black_24dp.xml"
-    },
-    {
-        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-id-rID-hdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-id-rID-hdpi\\ic_launcher_background.png"
     },
     {
         "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_poster.png.flat",
@@ -272,10 +256,6 @@
         "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_dashboard_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-id-rID-anydpi-v21_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-id-rID-anydpi-v21\\ic_launcher_background.xml"
-    },
-    {
         "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_information.xml.flat",
         "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\layout\\fragment_information.xml"
     },
@@ -302,10 +282,6 @@
     {
         "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-b+id+ID_aboutus.png.flat",
-        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable-b+id+ID\\aboutus.png"
     },
     {
         "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_dashboard_black_24dp.xml.flat",
@@ -344,10 +320,6 @@
         "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-id-rID-mdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\generated\\res\\pngs\\debug\\drawable-id-rID-mdpi\\ic_launcher_background.png"
-    },
-    {
         "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_terapi_ikan.jpg.flat",
         "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\terapi_ikan.jpg"
     },
@@ -370,10 +342,6 @@
     {
         "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ninebot.jpg.flat",
         "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable\\ninebot.jpg"
-    },
-    {
-        "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-b+id+ID_information.png.flat",
-        "source": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\src\\main\\res\\drawable-b+id+ID\\information.png"
     },
     {
         "merged": "C:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home_black_24dp.png.flat",

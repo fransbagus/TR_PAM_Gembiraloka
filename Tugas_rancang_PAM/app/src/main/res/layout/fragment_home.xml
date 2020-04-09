@@ -20,12 +20,11 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <RelativeLayout
-        android:layout_width="360dp"
-        android:layout_height="210dp"
-        android:layout_marginTop="32dp"
+        android:layout_width="317dp"
+        android:layout_height="170dp"
+        android:layout_marginTop="12dp"
         android:background="@drawable/txtfield2"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.494"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/v_flipper">
 
@@ -36,13 +35,13 @@
             android:layout_alignParentTop="true"
             android:layout_alignParentEnd="true"
             android:layout_alignParentRight="true"
-            android:layout_marginTop="13dp"
-            android:layout_marginEnd="19dp"
-            android:layout_marginRight="19dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginEnd="-12dp"
+            android:layout_marginRight="-12dp"
             android:fontFamily="sans-serif-condensed-medium"
             android:text="@string/welcome"
             android:textColor="#D8A91B"
-            android:textSize="24sp" />
+            android:textSize="22sp" />
 
         <TextView
             android:id="@+id/textView2"
@@ -51,9 +50,9 @@
             android:layout_below="@+id/textView"
             android:layout_alignEnd="@+id/textView"
             android:layout_alignRight="@+id/textView"
-            android:layout_marginTop="12dp"
-            android:layout_marginEnd="27dp"
-            android:layout_marginRight="27dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginEnd="31dp"
+            android:layout_marginRight="31dp"
             android:text="@string/txt_home1"
             android:textColor="@color/cardview_light_background"
             android:textSize="18sp" />

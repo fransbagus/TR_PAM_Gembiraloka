@@ -37,16 +37,21 @@ public class Home extends AppCompatActivity {
     }
 
     public void btnGalleryClick(View view) {
-        Intent mapsIntent = new Intent(Home.this, GalleryActivity.class) ;
-        startActivity(mapsIntent);
+        Intent intent = new Intent(Home.this, GalleryActivity.class) ;
+        startActivity(intent);
     }
 
     public void btnRecreationClick(View view) {
-        Intent mapsIntent = new Intent(Home.this, RecreationActivity.class) ;
-        startActivity(mapsIntent);
+        Intent intent = new Intent(Home.this, RecreationActivity.class) ;
+        startActivity(intent);
     }
     public void btnContactusClick(View view) {
-        Intent mapsIntent = new Intent(Home.this, ContactusActivity.class) ;
-        startActivity(mapsIntent);
+        Intent intent = new Intent(Home.this, ContactusActivity.class) ;
+        startActivity(intent);
+    }
+
+    public void btnActractionClick(View view) {
+        Intent intent = new Intent(Home.this, AttractionActivity.class) ;
+        startActivity(intent);
     }
 }

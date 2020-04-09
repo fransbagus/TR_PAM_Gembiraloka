@@ -5,6 +5,7 @@
     <string name="welcome">Welcome to Gembira Loka Zoo service</string>
     <string name="txt_home1">Find our various fauna collection such as mammals, reptilia, aves, amphibi, pisces.</string>
     //page information
+    <string name="txt_attraction"><b>ATTRACTION</b></string>
     <string name="txt_maps"><b>MAPS</b></string>
     <string name="txt_gallery"><b>GALLERY</b></string>
     <string name="txt_recreation"><b>RECREATION</b></string>
@@ -39,6 +40,17 @@
     <string name="desc_SB">The only speedboat that runs in the middle of the city of Yogyakarta.</string>
     <string name="title_PKA">Perahu Katamaran</string>
     <string name="desc_PKA">Riding this Catamaran Boat you can surround an artificial lake with beautiful views.</string>
+
+    //page actraction
+    <string name="title_BS">Bird Show</string>
+    <string name="desc_BS">Bird Show is an introduction to bird behavior when flying in the wild, so visitors can know bird behavior directly.</string>
+    <string name="title_IR">Interaksi Reptile</string>
+    <string name="desc_IR">Reptile interactions are areas within the RAP zone (Reptiles and Amphibians Park).</string>
+    <string name="title_PES">Presentasi dan Edukasi Satwa</string>
+    <string name="desc_PES">Animal shows at Gembira Loka Zoo.</string>
+    <string name="title_FTA">Feeding Time dan Atraksi Satwa</string>
+    <string name="desc_FTA"></string>
+
     //page about us
     <string name="txt_contactus">CONTACT US</string>
 

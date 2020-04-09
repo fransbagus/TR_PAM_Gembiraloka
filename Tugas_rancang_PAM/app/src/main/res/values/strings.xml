@@ -5,6 +5,7 @@
     <string name="welcome">Selamat datang di layanan Kebun Binatang Gembira Loka</string>
     <string name="txt_home1">Temukan berbagai koleksi fauna kami seperti mamalia, reptilia, aves, amphibi, pisces.</string>
     //page information
+    <string name="txt_attraction"><b>AKTRAKSI</b></string>
     <string name="txt_maps"><b>PETA</b></string>
     <string name="txt_gallery"><b>GALERI</b></string>
     <string name="txt_recreation"><b>REKREASI</b></string>
@@ -39,6 +40,17 @@
     <string name="desc_SB">Satu-satunya Speedboat yang melaju di tengah kota Yogyakarta.</string>
     <string name="title_PKA">Perahu Katamaran</string>
     <string name="desc_PKA">Menaiki Perahu Katamaran ini anda dapat mengelilingi Danau buatan dengan pemandangan yang indah.</string>
+
+    //page actraction
+    <string name="title_BS">Bird Show</string>
+    <string name="desc_BS">Bird Show adalah pengenalan perilaku burung saat terbang di alam liar, sehingga pengunjung dapat mengetahui perilaku burung secara langsung.</string>
+    <string name="title_IR">Interaksi Reptile</string>
+    <string name="desc_IR">Interaksi Reptile merupakan area yang berada didalam zona RAP (Reptiles dan Amphibians Park).</string>
+    <string name="title_PES">Presentasi dan Edukasi Satwa</string>
+    <string name="desc_PES">pertunjukan Satwa yang ada di Gembira Loka Zoo.</string>
+    <string name="title_FTA">Feeding Time dan Atraksi Satwa</string>
+    <string name="desc_FTA"></string>
+
     //page about us
     <string name="txt_contactus">HUBUNGI KAMI</string>
 
@@ -59,4 +71,6 @@
     <string name="title_information">Informasi</string>
     <string name="title_about">Tentang Kami</string>
     <string name="title_activity_maps">Peta</string>
+
+
 </resources>

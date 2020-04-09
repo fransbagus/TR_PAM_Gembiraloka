@@ -35,6 +35,10 @@
         android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity
+            android:name="com.example.tugas_rancang_pam.AttractionActivity"
+            android:label="Actraction" >
+        </activity>
+        <activity
             android:name="com.example.tugas_rancang_pam.ContactusActivity"
             android:label="Contact Us" />
         <activity

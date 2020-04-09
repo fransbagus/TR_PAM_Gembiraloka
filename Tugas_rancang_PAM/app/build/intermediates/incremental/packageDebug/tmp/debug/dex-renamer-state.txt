@@ -1,4 +1,4 @@
-#Thu Apr 09 13:17:26 ICT 2020
-base.0=C\:\\Users\\vincg\\Documents\\GitHub\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+#Thu Apr 09 14:25:15 ICT 2020
+base.0=E\:\\Data\\PAM\\TR\\TR_PAM_Gembiraloka\\Tugas_rancang_PAM\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

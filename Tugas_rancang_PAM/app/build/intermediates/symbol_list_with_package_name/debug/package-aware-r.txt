@@ -2176,6 +2176,7 @@ string title_activity_home
 string title_activity_maps
 string title_home
 string title_information
+string txt_access
 string txt_attraction
 string txt_contactus
 string txt_contactus_fill

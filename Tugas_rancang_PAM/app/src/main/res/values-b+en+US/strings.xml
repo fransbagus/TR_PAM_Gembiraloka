@@ -71,4 +71,8 @@
     <string name="title_information">Information</string>
     <string name="title_about">About Us</string>
     <string name="title_activity_maps">Maps</string>
+
+
+    //toast access contact
+    <string name="txt_access">You must allow permission</string>
 </resources>

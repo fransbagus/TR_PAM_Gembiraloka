@@ -5662,7 +5662,7 @@
  	 FAX: +62-274-384666\n
  	 WhatsApp: +62-812-2266-2290\n
  	 HandPhone: +62-812-3192-5666\n
- 	 Email: info@gembiralokazoo.com</string><string name="title_activity_home">Beranda</string><string name="title_home">Beranda</string><string name="title_information">Informasi</string><string name="title_about">Tentang Kami</string><string name="title_activity_maps">Peta</string></file><file path="E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+ 	 Email: info@gembiralokazoo.com</string><string name="title_activity_home">Beranda</string><string name="title_home">Beranda</string><string name="title_information">Informasi</string><string name="title_about">Tentang Kami</string><string name="title_activity_maps">Peta</string><string name="txt_access">Anda harus mengizinkan</string></file><file path="E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
@@ -5674,7 +5674,7 @@
  	 FAX: +62-274-384666\n
  	 WhatsApp: +62-812-2266-2290\n
  	 HandPhone: +62-812-3192-5666\n
- 	 Email: info@gembiralokazoo.com</string><string name="title_activity_home">Home</string><string name="title_home">Home</string><string name="title_information">Information</string><string name="title_about">About Us</string><string name="title_activity_maps">Maps</string></file><file path="E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\res\values-b+en+US\styles.xml" qualifiers="en-rUS"><style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+ 	 Email: info@gembiralokazoo.com</string><string name="title_activity_home">Home</string><string name="title_home">Home</string><string name="title_information">Information</string><string name="title_about">About Us</string><string name="title_activity_maps">Maps</string><string name="txt_access">You must allow permission</string></file><file path="E:\Data\PAM\TR\TR_PAM_Gembiraloka\Tugas_rancang_PAM\app\src\main\res\values-b+en+US\styles.xml" qualifiers="en-rUS"><style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>

@@ -9,6 +9,7 @@ import android.os.Bundle;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
+import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -53,6 +54,7 @@ public class ContactusActivity extends AppCompatActivity {
                             }
                         }
                     }
+                    Toast.makeText(ContactusActivity.this, getResources().getString(R.string.txt_access), Toast.LENGTH_LONG).show();
                 }
             }
         });

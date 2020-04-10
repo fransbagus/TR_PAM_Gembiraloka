@@ -57,6 +57,7 @@
     <string name="title_activity_maps">Maps</string>
     <string name="title_home">Home</string>
     <string name="title_information">Information</string>
+    <string name="txt_access">You must allow permission</string>
     <string name="txt_attraction"><b>ATTRACTION</b></string>
     <string name="txt_contactus">CONTACT US</string>
     <string name="txt_contactus_fill">
@@ -75,7 +76,7 @@
     <string name="txt_recreation"><b>RECREATION</b></string>
     <string name="welcome">Welcome to Gembira Loka Zoo service</string>
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-        <!-- Customize your theme here. -->
+        
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>

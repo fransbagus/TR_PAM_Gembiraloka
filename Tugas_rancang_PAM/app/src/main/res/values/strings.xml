@@ -72,5 +72,8 @@
     <string name="title_about">Tentang Kami</string>
     <string name="title_activity_maps">Peta</string>
 
+    //toast access contact
+    <string name="txt_access">Anda harus mengizinkan</string>
+
 
 </resources>
